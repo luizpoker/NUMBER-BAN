@@ -30,7 +30,7 @@ apt install git
 
 git clone https://github.com/luizpoker/NUMBER-BAN
 
-cd NUMBER_BANING
+cd NUMBER-BAN
 
 bash Report.sh
 
